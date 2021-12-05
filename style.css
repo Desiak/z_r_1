@@ -1,13 +1,11 @@
 *{
     margin:0;
     padding:0;
-
 }
 
 .header, .subheader{
     text-align: center;
     margin:12px 0;
-
 }
 
 .draw-numbers-btn{

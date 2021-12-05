@@ -1,9 +1,7 @@
 window.addEventListener("load", ()=>{
-
     const drawBtn= document.querySelector(".draw-numbers-btn");
     const evenList= document.querySelector(".even");
     const oddList= document.querySelector(".odd");
-   
 
     function drawNumbers(){
         let randomNumbers=[];
