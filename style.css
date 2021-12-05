@@ -1,0 +1,35 @@
+*{
+    margin:0;
+    padding:0;
+
+}
+
+.header, .subheader{
+    text-align: center;
+    margin:12px 0;
+
+}
+
+.draw-numbers-btn{
+    display: block;
+    margin:20px auto;
+    padding:0.3em 1em;
+    background: green;
+    color:white;
+    border:none;
+    border-radius: 4px;
+    font-size: 1.2em;
+}
+.numbers-list{
+    width: 45%;  
+    list-style: none;  
+}
+.number{
+    text-align: center;
+    line-height: 1.5em;
+}
+
+.content{
+    display: flex;
+    justify-content: space-evenly;
+}
